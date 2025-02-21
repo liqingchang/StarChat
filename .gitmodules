@@ -1,0 +1,3 @@
+[submodule "app/src/main/assets/model"]
+	path = app/src/main/assets/model
+	url = https://oauth2:51MzykUzmnwj4evnsdEv@www.modelscope.cn/liqinchang/DeepSeek-R1-Distill-Qwen-1.5B-MNN.git
