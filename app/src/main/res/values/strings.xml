@@ -52,5 +52,11 @@
     <string name="prompt_home">Prompts</string>
     <string name="start_chat">Start Chat</string>
 
+    <string name="py_title">Disclaimer</string>
+    <string name="py_content">AI-generated content may not be entirely accurate and should not be relied upon for decision-making.</string>
+    <string name="py_agree">I Know</string>
+    <string name="exit">Exit</string>
+
+    <string name="starup_tip">The first launch may be slower, please be patient and wait.</string>
 
 </resources>

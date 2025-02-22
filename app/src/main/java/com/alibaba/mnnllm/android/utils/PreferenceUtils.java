@@ -10,6 +10,8 @@ public class PreferenceUtils {
 
     public static final String TAG = "PreferenceUtils";
     public static final String KEY_SHOW_PERFORMACE_METRICS = "SHOW_PERFORMACE_METRICS";
+
+    public static final String KEY_FIRSTSTART = "FIRST_START";
     public static void setBoolean(Context context, String key , boolean value) {
         PreferenceManager.getDefaultSharedPreferences(context).edit().putBoolean(key, value).apply();
     }

@@ -51,4 +51,11 @@
 
     <string name="prompt_home">选择Prompt</string>
     <string name="start_chat">直接开始聊天</string>
+
+    <string name="py_title">免责声明</string>
+    <string name="py_content">AI生成的内容不一定准确，不能作为行动和判断的依据。</string>
+    <string name="py_agree">我已知晓</string>
+    <string name="exit">退出</string>
+
+    <string name="starup_tip">首次启动会比较慢，请耐心等待</string>
 </resources>
